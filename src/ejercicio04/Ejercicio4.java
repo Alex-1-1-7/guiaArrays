@@ -1,6 +1,6 @@
 
 /* 4. Leer 5 nombres de pokemon y mostralos en orden inverso al introducido. */
-package ejercicio4;
+package ejercicio04;
 
 import java.util.Scanner;
 public class Ejercicio4 {

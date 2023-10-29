@@ -2,7 +2,7 @@
 Crea un programa que encuentre el valor máximo y mínimo en un array de números
 enteros. se debe llenar el array con números ingresados por el usuario.
  */
-package ejercicio5;
+package ejercicio05;
 
 import java.util.Scanner;
 public class Ejercicio05 {

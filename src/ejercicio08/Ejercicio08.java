@@ -5,7 +5,7 @@ Después se debe pedir un número y una posición, insertarlo en la posición in
 desplazando los que estén
 detrás.
 */
-package ejercicio8;
+package ejercicio08;
 
 import java.util.Scanner;
 

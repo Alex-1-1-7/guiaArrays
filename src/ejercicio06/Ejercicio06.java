@@ -3,7 +3,7 @@ Dado los siguientes Arrays mezclar los nombres de Pokémon de los arrays
 nombresPokemonA y nombresPokemonB en un tercer array
 nombresPokemonC de la forma el 1o de A, el 1o de B, el 2o de A, el 2o de B, etc.),
  */
-package ejercicio6;
+package ejercicio06;
 
 
 public class Ejercicio06 {

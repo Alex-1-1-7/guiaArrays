@@ -3,7 +3,7 @@
 los números están
 ordenados de forma creciente, decreciente, o si están desordenados.
 */
-package ejercicio7;
+package ejercicio07;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
 último, el segundo, el
 penúltimo, el tercero, etc.*/
 
-package ejercicio3;
+package ejercicio03;
 
 import java.util.Scanner;
 
